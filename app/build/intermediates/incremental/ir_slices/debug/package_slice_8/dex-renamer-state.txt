@@ -1,0 +1,4 @@
+#Sat Mar 23 15:21:50 EET 2019
+base.0=/Users/simonasruokis/Desktop/android-EmojiCompat-master/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
